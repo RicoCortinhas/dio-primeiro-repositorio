@@ -1,17 +1,26 @@
 Link para dowload do Git: https://git-scm.com/
 O Git Bash é um terminal extendido para otimizar o uso do Git
 
-Comando para baixar um repositório para o computador:
-git clone (caminho obtido no GitHub)
+
+git clone (caminho obtido no GitHub) - Comando para baixar um repositório para o computador:Comando para baixar um repositório para o computador:
 
 
-Comando para ver o status do versionamento no Git Bash 
-git status
+git status - Comando para ver o status do versionamento no Git Bash 
 
-Comandos para enviar as modificações do computador para o repositório no GitHub:
+git init - Comando para inicializar um repositorio dentro de uma estrutura de pasta
 
-1º - {git add .} ou {git add -A}
+git pull - Comando para atualizar o repositorio local a partir do repositório remoto
 
-2º - {git commit -m "<comentario>}
+git merge - Comando para junta duas branch's - comando para resolver conflitos de alterações nos arquivos
 
-3º - {git push origin main}
+git log - Comando para verificar todos os comits
+
+git branch - Comando para criar outros ramos de trabalho com uma cópia total da branch master para trabalhar sem correr risco de perder informações.
+
+Sequencia de comandos para enviar as modificações do computador para o repositório no GitHub:
+
+1º - {git add .} ou {git add -A} - adiciona arquivos para comitar
+
+2º - {git commit -m "<comentario>} - Comita (salva, junta) as alterações nos arquivos para enviar
+
+3º - {git push origin main} - Publica as alterções nos servidores de repositórios (GitHub)
