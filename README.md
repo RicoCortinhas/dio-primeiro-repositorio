@@ -23,4 +23,4 @@ Técnico em Eletrônica e Micro Informática.
 [![Git](https://img.shields.io/badge/Git-000?style=for-the-badge&logo=git&logoColor=E94D5F)]()
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=30A3DC)]()
 
-![PASTAS](https://img.shields.io/badge/PASTAS-003545?style=for-the-badge&logo=PASTAS&logoColor=30A3DC)(https://github.com/RicoCortinhas/dio-primeiro-repositorio/tree/main/Int%20Git_GitHub)]()
+![PASTAS](https://img.shields.io/badge/PASTAS-003545?style=for-the-badge&logo=PASTAS&logoColor=30A3DC)https://github.com/RicoCortinhas/dio-primeiro-repositorio/tree/main/Int%20Git_GitHub
